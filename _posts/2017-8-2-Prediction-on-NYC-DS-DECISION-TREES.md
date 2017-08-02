@@ -3,9 +3,9 @@ layout: post
 title: Predicting Gender of the riders of New York’s Citi Bikes (with Decision Trees)
 ---
 
-### Predicting Gender of the riders of New York’s Citi Bikes (with Decision Trees)
+### Read more on how I achieved 99.64% of accuracy with Decision Trees algorithm and Basic Feature Engineering.
 
-I was in Manhattan, New York for few weeks this June and as any tourist would do, I decided to ride around the city. One can easily go around the city using the subway, buses & taxis, I decided to have some fun and ride a bicycle. Renting a bike for the entire day costs around $40-$50. However, I found the Citi Bikes (shared bicycle service run by Citi Group) to be a better option. A day’s pass was $12 + taxes (~$13 in total) more info about the pricing on [Citi bikes website](https://www.citibikenyc.com/pricing).
+ I was in Manhattan, New York for few weeks this June and as any tourist would do, I decided to ride around the city. One can easily go around the city using the subway, buses & taxis, I decided to have some fun and ride a bicycle. Renting a bike for the entire day costs around $40-$50. However, I found the Citi Bikes (shared bicycle service run by Citi Group) to be a better option. A day’s pass was $12 + taxes (~$13 in total) more info about the pricing on [Citi bikes website](https://www.citibikenyc.com/pricing).
 
 I must say the experience was wonderful and so was the weather on that day. The temperature was around 70 degrees Fahrenheit (or 21.1 Degree Celsius). Riding a bicycle is one of the cheapest ways to go around New York city, not to mention it’s healthier and greener.
 
