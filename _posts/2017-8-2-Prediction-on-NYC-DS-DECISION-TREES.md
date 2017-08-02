@@ -289,14 +289,14 @@ Special Thanks to Mudassir Khan, Jash Shah, Mayuresh Shilotri, Shweta Doshi, Ank
 
 References —
 
-Decision Tree Classifier -http://mines.humanoriented.com/classes/2010/fall/csci568/portfolio_exports/lguo/decisionTree.html
+[Decision Tree Classifier] (http://mines.humanoriented.com/classes/2010/fall/csci568/portfolio_exports/lguo/decisionTree.html)
 
-Decision Tree Classifier (Sci-kit learn)— http://scikit-learn.org/stable/modules/tree.html
+[Decision Tree Classifier (Sci-kit learn)] (http://scikit-learn.org/stable/modules/tree.html)
 
-Hyper Parameters — https://www.quora.com/What-are-hyperparameters-in-machine-learning
+[Hyper Parameters](https://www.quora.com/What-are-hyperparameters-in-machine-learning)
 
-Overfitting — http://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/
+[Overfitting](http://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/)
 
-Leakage — https://www.kaggle.com/wiki/Leakage
+[Leakage](https://www.kaggle.com/wiki/Leakage)
 
 [Original Article on Medium](https://medium.com/@nikhilakki/predicting-gender-of-the-riders-of-new-yorks-citi-bikes-with-decision-trees-dcb169caad85)
