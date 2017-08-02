@@ -12,6 +12,6 @@ Nikhil is currently looking for opportunties in Data Science - Machine Learning/
 
 ### Contact me
 
-[LinkedIn](https://www.linkedin.com/in/nikhilakki/)
-[Twitter](https://twitter.com/akkithetechie)
-[GitHub](https://github.com/nikhilakki)
+#### [LinkedIn](https://www.linkedin.com/in/nikhilakki/)
+#### [Twitter](https://twitter.com/akkithetechie)
+#### [GitHub](https://github.com/nikhilakki)
