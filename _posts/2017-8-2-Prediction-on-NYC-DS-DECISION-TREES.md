@@ -279,7 +279,7 @@ Accuracy on Unseen data 99.640000 %
 ```
 Wow! so the model did actually work! Does that mean I’m an ML Genius ? ! :D.
 
-I wouldn’t flatter myself thinking about it B-). I’m just a rookie trying to learn the art and craft of Data Science, I may have made some mistakes along the way but slowly and steadily I’m learning something. If you find any errors, please feel free to correct me. I gladly accept constructive feedback.
+I wouldn’t flatter myself thinking about it B-). I’m just a new guy trying to learn the art and craft of Data Science, I may have made some mistakes along the way but slowly and steadily I’m learning something. If you find any errors, please feel free to correct me. I gladly accept constructive feedback.
 
 Special Thanks to Mudassir Khan, Jash Shah, Mayuresh Shilotri, Shweta Doshi, Ankan Roy, Rohan Damodar, Gyanendra Dhanee & all my peers at GreyAtom School (These guys are amazing, they have helped me a lot in understanding Data Science & Machine Learning).
 
