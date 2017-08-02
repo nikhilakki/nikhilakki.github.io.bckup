@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Predicting Gender of the riders of New York’s Citi Bikes (with Decision Trees)
 ---
 
 ### Predicting Gender of the riders of New York’s Citi Bikes (with Decision Trees)
