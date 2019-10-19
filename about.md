@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
 ---
 
 Nikhil loves to take on challenges and delivering value, he works primarily in the Data Science domain which includes Applied Machine & Deep Learning, Natural Language Processing (NLP), Computer Vision, Recommender Systems, Exploratory Data Analysis​ and Data Visualisation​.
