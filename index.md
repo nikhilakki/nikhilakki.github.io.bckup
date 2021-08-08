@@ -15,4 +15,3 @@ Nikhil works as a Full-stack Cloud Engineer with a focus on ML & Data Science at
 #### [LinkedIn](https://www.linkedin.com/in/nikhilakki/)
 #### [Twitter](https://twitter.com/akkithetechie)
 #### [GitHub](https://github.com/nikhilakki)
-#### [Medium](https://medium.com/@nikhilakki)
